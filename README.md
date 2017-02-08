@@ -1,4 +1,3 @@
-# hellowordruby
 # Integrantes:
 - Jonas Perusquia Morales
 - Gaspar Quintana Gallegos
